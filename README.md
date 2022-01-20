@@ -1,2 +1,3 @@
 # pywc
-wc in python
+wc in python - in progress
+
